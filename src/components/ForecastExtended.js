@@ -20,7 +20,7 @@ import './styles.css';
 // };
 
 const api_key = 'd1390e786eba63ae349a8de1b7b23bc1';
-const url = 'http://api.openweathermap.org/data/2.5/forecast?';
+const url = 'https://api.openweathermap.org/data/2.5/forecast?';
 
 class ForecastExtended extends Component{
     constructor(){
