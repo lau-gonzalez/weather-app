@@ -13,7 +13,7 @@
     "@testing-library/user-event": "^7.1.2",
     "convert-units": "^2.3.4",
     "express": "^4.17.1",
-    "moment": "2.19.1",
+    "moment": "2.19.3",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
